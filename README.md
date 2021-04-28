@@ -1,4 +1,3 @@
-# favorite-company
 <h1>About Favorite Company App</h1>
 <br/>
 <p>Favorite company is a website-based application that serves to create a list of companies you like. Where you can easily add and remove companies from your favorites list.
